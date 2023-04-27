@@ -1,0 +1,16 @@
+D:\PatikaDev\kodluyoruzilkrepo\C#101\console-programlama\bin\Debug\net5.0\console-programlama.exe
+D:\PatikaDev\kodluyoruzilkrepo\C#101\console-programlama\bin\Debug\net5.0\console-programlama.deps.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\console-programlama\bin\Debug\net5.0\console-programlama.runtimeconfig.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\console-programlama\bin\Debug\net5.0\console-programlama.runtimeconfig.dev.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\console-programlama\bin\Debug\net5.0\console-programlama.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\console-programlama\bin\Debug\net5.0\console-programlama.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\console-programlama\obj\Debug\net5.0\console-programlama.csproj.AssemblyReference.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\console-programlama\obj\Debug\net5.0\console-programlama.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\kodluyoruzilkrepo\C#101\console-programlama\obj\Debug\net5.0\console-programlama.AssemblyInfoInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\console-programlama\obj\Debug\net5.0\console-programlama.AssemblyInfo.cs
+D:\PatikaDev\kodluyoruzilkrepo\C#101\console-programlama\obj\Debug\net5.0\console-programlama.csproj.CoreCompileInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\console-programlama\obj\Debug\net5.0\console-programlama.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\console-programlama\obj\Debug\net5.0\refint\console-programlama.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\console-programlama\obj\Debug\net5.0\console-programlama.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\console-programlama\obj\Debug\net5.0\console-programlama.genruntimeconfig.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\console-programlama\obj\Debug\net5.0\ref\console-programlama.dll

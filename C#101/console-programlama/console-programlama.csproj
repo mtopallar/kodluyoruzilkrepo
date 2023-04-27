@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>console_programlama</RootNamespace>
+    <CheckEolTargetFramework>false</CheckEolTargetFramework> <!-- projenin çerçevenin destek dışı bir sürümünü hedeflediğini göstememesi için. -->
+  </PropertyGroup>
+
+</Project>
