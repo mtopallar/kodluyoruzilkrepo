@@ -1,0 +1,16 @@
+D:\PatikaDev\kodluyoruzilkrepo\C#101\operatorler\bin\Debug\net5.0\operatorler.exe
+D:\PatikaDev\kodluyoruzilkrepo\C#101\operatorler\bin\Debug\net5.0\operatorler.deps.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\operatorler\bin\Debug\net5.0\operatorler.runtimeconfig.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\operatorler\bin\Debug\net5.0\operatorler.runtimeconfig.dev.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\operatorler\bin\Debug\net5.0\operatorler.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\operatorler\bin\Debug\net5.0\operatorler.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\operatorler\obj\Debug\net5.0\operatorler.csproj.AssemblyReference.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\operatorler\obj\Debug\net5.0\operatorler.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\kodluyoruzilkrepo\C#101\operatorler\obj\Debug\net5.0\operatorler.AssemblyInfoInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\operatorler\obj\Debug\net5.0\operatorler.AssemblyInfo.cs
+D:\PatikaDev\kodluyoruzilkrepo\C#101\operatorler\obj\Debug\net5.0\operatorler.csproj.CoreCompileInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\operatorler\obj\Debug\net5.0\operatorler.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\operatorler\obj\Debug\net5.0\refint\operatorler.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\operatorler\obj\Debug\net5.0\operatorler.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\operatorler\obj\Debug\net5.0\operatorler.genruntimeconfig.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\operatorler\obj\Debug\net5.0\ref\operatorler.dll
