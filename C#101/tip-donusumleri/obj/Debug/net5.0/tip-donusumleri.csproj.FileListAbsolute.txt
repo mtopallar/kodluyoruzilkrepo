@@ -1,0 +1,16 @@
+D:\PatikaDev\kodluyoruzilkrepo\C#101\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.exe
+D:\PatikaDev\kodluyoruzilkrepo\C#101\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.deps.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.runtimeconfig.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.runtimeconfig.dev.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\tip-donusumleri\bin\Debug\net5.0\tip-donusumleri.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.csproj.AssemblyReference.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\kodluyoruzilkrepo\C#101\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.AssemblyInfoInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.AssemblyInfo.cs
+D:\PatikaDev\kodluyoruzilkrepo\C#101\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.csproj.CoreCompileInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\tip-donusumleri\obj\Debug\net5.0\refint\tip-donusumleri.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\tip-donusumleri\obj\Debug\net5.0\tip-donusumleri.genruntimeconfig.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\tip-donusumleri\obj\Debug\net5.0\ref\tip-donusumleri.dll
