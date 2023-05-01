@@ -1,0 +1,16 @@
+D:\PatikaDev\kodluyoruzilkrepo\C#101\debugging-watch-variables\bin\Debug\net5.0\debugging-watch-variables.exe
+D:\PatikaDev\kodluyoruzilkrepo\C#101\debugging-watch-variables\bin\Debug\net5.0\debugging-watch-variables.deps.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\debugging-watch-variables\bin\Debug\net5.0\debugging-watch-variables.runtimeconfig.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\debugging-watch-variables\bin\Debug\net5.0\debugging-watch-variables.runtimeconfig.dev.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\debugging-watch-variables\bin\Debug\net5.0\debugging-watch-variables.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\debugging-watch-variables\bin\Debug\net5.0\debugging-watch-variables.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\debugging-watch-variables\obj\Debug\net5.0\debugging-watch-variables.csproj.AssemblyReference.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\debugging-watch-variables\obj\Debug\net5.0\debugging-watch-variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\kodluyoruzilkrepo\C#101\debugging-watch-variables\obj\Debug\net5.0\debugging-watch-variables.AssemblyInfoInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\debugging-watch-variables\obj\Debug\net5.0\debugging-watch-variables.AssemblyInfo.cs
+D:\PatikaDev\kodluyoruzilkrepo\C#101\debugging-watch-variables\obj\Debug\net5.0\debugging-watch-variables.csproj.CoreCompileInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\debugging-watch-variables\obj\Debug\net5.0\debugging-watch-variables.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\debugging-watch-variables\obj\Debug\net5.0\refint\debugging-watch-variables.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\debugging-watch-variables\obj\Debug\net5.0\debugging-watch-variables.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\debugging-watch-variables\obj\Debug\net5.0\debugging-watch-variables.genruntimeconfig.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\debugging-watch-variables\obj\Debug\net5.0\ref\debugging-watch-variables.dll
