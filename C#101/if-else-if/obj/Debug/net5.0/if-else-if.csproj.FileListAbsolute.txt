@@ -1,0 +1,16 @@
+D:\PatikaDev\kodluyoruzilkrepo\C#101\if-else-if\bin\Debug\net5.0\if-else-if.exe
+D:\PatikaDev\kodluyoruzilkrepo\C#101\if-else-if\bin\Debug\net5.0\if-else-if.deps.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\if-else-if\bin\Debug\net5.0\if-else-if.runtimeconfig.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\if-else-if\bin\Debug\net5.0\if-else-if.runtimeconfig.dev.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\if-else-if\bin\Debug\net5.0\if-else-if.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\if-else-if\bin\Debug\net5.0\if-else-if.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\if-else-if\obj\Debug\net5.0\if-else-if.csproj.AssemblyReference.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\if-else-if\obj\Debug\net5.0\if-else-if.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\kodluyoruzilkrepo\C#101\if-else-if\obj\Debug\net5.0\if-else-if.AssemblyInfoInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\if-else-if\obj\Debug\net5.0\if-else-if.AssemblyInfo.cs
+D:\PatikaDev\kodluyoruzilkrepo\C#101\if-else-if\obj\Debug\net5.0\if-else-if.csproj.CoreCompileInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\if-else-if\obj\Debug\net5.0\if-else-if.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\if-else-if\obj\Debug\net5.0\refint\if-else-if.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\if-else-if\obj\Debug\net5.0\if-else-if.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\if-else-if\obj\Debug\net5.0\if-else-if.genruntimeconfig.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\if-else-if\obj\Debug\net5.0\ref\if-else-if.dll
