@@ -1,0 +1,16 @@
+D:\PatikaDev\kodluyoruzilkrepo\C#101\for-loop-break-continue\bin\Debug\net5.0\for-loop-break-continue.exe
+D:\PatikaDev\kodluyoruzilkrepo\C#101\for-loop-break-continue\bin\Debug\net5.0\for-loop-break-continue.deps.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\for-loop-break-continue\bin\Debug\net5.0\for-loop-break-continue.runtimeconfig.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\for-loop-break-continue\bin\Debug\net5.0\for-loop-break-continue.runtimeconfig.dev.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\for-loop-break-continue\bin\Debug\net5.0\for-loop-break-continue.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\for-loop-break-continue\bin\Debug\net5.0\for-loop-break-continue.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\for-loop-break-continue\obj\Debug\net5.0\for-loop-break-continue.csproj.AssemblyReference.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\for-loop-break-continue\obj\Debug\net5.0\for-loop-break-continue.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\kodluyoruzilkrepo\C#101\for-loop-break-continue\obj\Debug\net5.0\for-loop-break-continue.AssemblyInfoInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\for-loop-break-continue\obj\Debug\net5.0\for-loop-break-continue.AssemblyInfo.cs
+D:\PatikaDev\kodluyoruzilkrepo\C#101\for-loop-break-continue\obj\Debug\net5.0\for-loop-break-continue.csproj.CoreCompileInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\for-loop-break-continue\obj\Debug\net5.0\for-loop-break-continue.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\for-loop-break-continue\obj\Debug\net5.0\refint\for-loop-break-continue.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\for-loop-break-continue\obj\Debug\net5.0\for-loop-break-continue.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\for-loop-break-continue\obj\Debug\net5.0\for-loop-break-continue.genruntimeconfig.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\for-loop-break-continue\obj\Debug\net5.0\ref\for-loop-break-continue.dll
