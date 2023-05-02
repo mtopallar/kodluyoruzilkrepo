@@ -1,0 +1,16 @@
+D:\PatikaDev\kodluyoruzilkrepo\C#101\while-foreach\bin\Debug\net5.0\while-foreach.exe
+D:\PatikaDev\kodluyoruzilkrepo\C#101\while-foreach\bin\Debug\net5.0\while-foreach.deps.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\while-foreach\bin\Debug\net5.0\while-foreach.runtimeconfig.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\while-foreach\bin\Debug\net5.0\while-foreach.runtimeconfig.dev.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\while-foreach\bin\Debug\net5.0\while-foreach.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\while-foreach\bin\Debug\net5.0\while-foreach.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\while-foreach\obj\Debug\net5.0\while-foreach.csproj.AssemblyReference.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\while-foreach\obj\Debug\net5.0\while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\kodluyoruzilkrepo\C#101\while-foreach\obj\Debug\net5.0\while-foreach.AssemblyInfoInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\while-foreach\obj\Debug\net5.0\while-foreach.AssemblyInfo.cs
+D:\PatikaDev\kodluyoruzilkrepo\C#101\while-foreach\obj\Debug\net5.0\while-foreach.csproj.CoreCompileInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\while-foreach\obj\Debug\net5.0\while-foreach.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\while-foreach\obj\Debug\net5.0\refint\while-foreach.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\while-foreach\obj\Debug\net5.0\while-foreach.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\while-foreach\obj\Debug\net5.0\while-foreach.genruntimeconfig.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\while-foreach\obj\Debug\net5.0\ref\while-foreach.dll
