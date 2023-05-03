@@ -1,0 +1,16 @@
+D:\PatikaDev\kodluyoruzilkrepo\C#101\diziler-array-sinifi-metodlari\bin\Debug\net5.0\diziler-array-sinifi-metodlari.exe
+D:\PatikaDev\kodluyoruzilkrepo\C#101\diziler-array-sinifi-metodlari\bin\Debug\net5.0\diziler-array-sinifi-metodlari.deps.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\diziler-array-sinifi-metodlari\bin\Debug\net5.0\diziler-array-sinifi-metodlari.runtimeconfig.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\diziler-array-sinifi-metodlari\bin\Debug\net5.0\diziler-array-sinifi-metodlari.runtimeconfig.dev.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\diziler-array-sinifi-metodlari\bin\Debug\net5.0\diziler-array-sinifi-metodlari.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\diziler-array-sinifi-metodlari\bin\Debug\net5.0\diziler-array-sinifi-metodlari.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.csproj.AssemblyReference.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\kodluyoruzilkrepo\C#101\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.AssemblyInfoInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.AssemblyInfo.cs
+D:\PatikaDev\kodluyoruzilkrepo\C#101\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.csproj.CoreCompileInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\diziler-array-sinifi-metodlari\obj\Debug\net5.0\refint\diziler-array-sinifi-metodlari.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.genruntimeconfig.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\diziler-array-sinifi-metodlari\obj\Debug\net5.0\ref\diziler-array-sinifi-metodlari.dll
