@@ -22,7 +22,7 @@ namespace diziler_array_sinifi_metodlari
                 Console.WriteLine(sayi);
             }
 
-            //Clear verdigimiz dizi icerisinde, verdigimiz indexten baslayarak, verdigimiz sayida elemani sifirlamaya yarar. Silmiyor, degerine 0 degeri atiyor.
+            //Clear verdigimiz dizi icerisinde, verdigimiz indexten baslayarak, verdigimiz sayida elemani sifirlamaya yarar. Clear metodu veriyi silmez. Ilgili dizinin veri tipinin varsayilan veri tipini atar. int icin 0, string icin null gibi.
             Console.WriteLine("--------- Array Clear ---------");
             Array.Clear(sayiDizisi,2,2); //dizi: sayiDizisi baslangic: 2.index kacElemanIcın: 2
             foreach (var sayi in sayiDizisi)
@@ -45,12 +45,14 @@ namespace diziler_array_sinifi_metodlari
 
             //Resize, diziyi yeniden bıyutlandirir.
             Console.WriteLine("--------- Array Resize() ---------");
-            Array.Resize<int>(ref sayiDizisi,9); //<ilgili dizinin veritipi>(referans yenidenBoyutlandirilacakDİzi, yeniBoyut)
+            Array.Resize<int>(ref sayiDizisi,9); //<ilgili dizinin veritipi>(referans yenidenBoyutlandirilacakDİzi, yeniBoyut) buradaki yeni boyut eleman sayisi cinsinden index olarak degil.
             sayiDizisi[8] = 99;
             foreach (var sayi in sayiDizisi)
             {
                 Console.WriteLine(sayi);
             }
+
+            //3 elemanlı integer bir dizi resize edilip yeni boyutu 10 olarak verilirse ve buralara bir deger atamasi yapilmazsa oralara int in default degeri olan 0 atamasi otomatik olarak yapilir. Resize ile dizi buyutulebilecegi gibi, kisaltilabilir de.            
         }
     }
 }
