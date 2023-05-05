@@ -52,7 +52,7 @@ namespace diziler_array_sinifi_metodlari
                 Console.WriteLine(sayi);
             }
 
-            //3 elemanlı integer bir dizi resize edilip yeni boyutu 10 olarak verilirse ve buralara bir deger atamasi yapilmazsa oralara int in default degeri olan 0 atamasi otomatik olarak yapilir. Resize ile dizi buyutulebilecegi gibi, kisaltilabilir de.            
+            //3 elemanlı integer bir dizi resize edilip yeni boyutu 10 olarak verilirse ve buralara bir deger atamasi yapilmazsa oralara int in default degeri olan 0 atamasi otomatik olarak yapilir. Resize ile dizi buyutulebilecegi gibi, kisaltmak icin de kullanilabilir. de.            
         }
     }
 }
