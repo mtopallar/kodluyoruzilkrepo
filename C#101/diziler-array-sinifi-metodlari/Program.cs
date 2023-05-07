@@ -43,7 +43,7 @@ namespace diziler_array_sinifi_metodlari
             int indexNumarasi = Array.IndexOf(sayiDizisi,23); //sayiDizisi icinde 23 numarali eleman kacinci indexte?
             Console.WriteLine($"Index Numarasi : {indexNumarasi}");
 
-            //Resize, diziyi yeniden bıyutlandirir.
+            //Resize, diziyi yeniden boyutlandirir.
             Console.WriteLine("--------- Array Resize() ---------");
             Array.Resize<int>(ref sayiDizisi,9); //<ilgili dizinin veritipi>(referans yenidenBoyutlandirilacakDİzi, yeniBoyut) buradaki yeni boyut eleman sayisi cinsinden index olarak degil.
             sayiDizisi[8] = 99;
