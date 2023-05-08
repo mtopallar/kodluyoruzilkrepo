@@ -1,0 +1,16 @@
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar\bin\Debug\net5.0\metodlar.exe
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar\bin\Debug\net5.0\metodlar.deps.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar\bin\Debug\net5.0\metodlar.runtimeconfig.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar\bin\Debug\net5.0\metodlar.runtimeconfig.dev.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar\bin\Debug\net5.0\metodlar.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar\bin\Debug\net5.0\metodlar.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar\obj\Debug\net5.0\metodlar.csproj.AssemblyReference.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar\obj\Debug\net5.0\metodlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar\obj\Debug\net5.0\metodlar.AssemblyInfoInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar\obj\Debug\net5.0\metodlar.AssemblyInfo.cs
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar\obj\Debug\net5.0\metodlar.csproj.CoreCompileInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar\obj\Debug\net5.0\metodlar.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar\obj\Debug\net5.0\refint\metodlar.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar\obj\Debug\net5.0\metodlar.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar\obj\Debug\net5.0\metodlar.genruntimeconfig.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar\obj\Debug\net5.0\ref\metodlar.dll
