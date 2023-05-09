@@ -73,7 +73,8 @@ namespace recursive_extension_metodlar
 
     public static class Extensions
     {
-        //Extension metodlar statik olmak zorunda.
+        //Extension metodlar static bir class içerisinde static bir metot olarak yazılmalılar.
+        //Extension metod birden fazla parametre alabilir ancak tanımlı parametrelerden sadece 1 tanesi ve ilk parametresi this ile tanımlanabilir. 
         //Once metodu extension degil de normal metodmus gibi yaz.
         //Sonra extension hale getirmek icin metodun parametre kismina this keywordunu ekle.
         //CheckSpaces metodu string parametre aliyor ve bu sebeple this keywordu string ifadesinin basina eklenmis oluyor. Bu sebeple CheckSpaces metodu bir string exxtension method oluyor. Alt tarafta test etmek icin yaptigim metod parametre olarak int bir deger aliyor bu sebeple this keywordu int tipinin basina geldi. Bu metod da dogal olarak int bir ifade ile kullanilabilecek bir extension metod olmus oldu. Bu tip her sey olabilir. Sadece primitif tipler degil.
