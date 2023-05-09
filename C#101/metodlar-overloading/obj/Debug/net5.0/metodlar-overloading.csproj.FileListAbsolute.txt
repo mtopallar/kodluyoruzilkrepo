@@ -1,0 +1,16 @@
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar-overloading\bin\Debug\net5.0\metodlar-overloading.exe
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar-overloading\bin\Debug\net5.0\metodlar-overloading.deps.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar-overloading\bin\Debug\net5.0\metodlar-overloading.runtimeconfig.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar-overloading\bin\Debug\net5.0\metodlar-overloading.runtimeconfig.dev.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar-overloading\bin\Debug\net5.0\metodlar-overloading.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar-overloading\bin\Debug\net5.0\metodlar-overloading.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar-overloading\obj\Debug\net5.0\metodlar-overloading.csproj.AssemblyReference.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar-overloading\obj\Debug\net5.0\metodlar-overloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar-overloading\obj\Debug\net5.0\metodlar-overloading.AssemblyInfoInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar-overloading\obj\Debug\net5.0\metodlar-overloading.AssemblyInfo.cs
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar-overloading\obj\Debug\net5.0\metodlar-overloading.csproj.CoreCompileInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar-overloading\obj\Debug\net5.0\metodlar-overloading.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar-overloading\obj\Debug\net5.0\refint\metodlar-overloading.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar-overloading\obj\Debug\net5.0\metodlar-overloading.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar-overloading\obj\Debug\net5.0\metodlar-overloading.genruntimeconfig.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\metodlar-overloading\obj\Debug\net5.0\ref\metodlar-overloading.dll
