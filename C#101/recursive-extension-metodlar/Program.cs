@@ -6,7 +6,7 @@ namespace recursive_extension_metodlar
     {
         static void Main(string[] args)
         {
-            //Rekurfis (Ozyinelemeli Kendi Kendini Cagiran Fonksiyon) -- Bunun yaptigi isi for gibi donguler ile de yapabiliriz.
+            //Rekursif (Ozyinelemeli Kendi Kendini Cagiran Fonksiyon) -- Bunun yaptigi isi for gibi donguler ile de yapabiliriz.
             // Us alma, faktoriyel alma gibi islemler en sik kullanildigi alanlardir.
             // 3^4: = 3.3.3.3
 
