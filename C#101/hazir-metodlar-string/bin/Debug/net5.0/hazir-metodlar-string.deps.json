@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "hazir-metodlar-string/1.0.0": {
+        "runtime": {
+          "hazir-metodlar-string.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hazir-metodlar-string/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-string\bin\Debug\net5.0\hazir-metodlar-string.exe
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-string\bin\Debug\net5.0\hazir-metodlar-string.deps.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-string\bin\Debug\net5.0\hazir-metodlar-string.runtimeconfig.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-string\bin\Debug\net5.0\hazir-metodlar-string.runtimeconfig.dev.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-string\bin\Debug\net5.0\hazir-metodlar-string.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-string\bin\Debug\net5.0\hazir-metodlar-string.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-string\obj\Debug\net5.0\hazir-metodlar-string.csproj.AssemblyReference.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-string\obj\Debug\net5.0\hazir-metodlar-string.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-string\obj\Debug\net5.0\hazir-metodlar-string.AssemblyInfoInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-string\obj\Debug\net5.0\hazir-metodlar-string.AssemblyInfo.cs
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-string\obj\Debug\net5.0\hazir-metodlar-string.csproj.CoreCompileInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-string\obj\Debug\net5.0\hazir-metodlar-string.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-string\obj\Debug\net5.0\refint\hazir-metodlar-string.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-string\obj\Debug\net5.0\hazir-metodlar-string.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-string\obj\Debug\net5.0\hazir-metodlar-string.genruntimeconfig.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-string\obj\Debug\net5.0\ref\hazir-metodlar-string.dll
