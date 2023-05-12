@@ -1,0 +1,16 @@
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-datetime-math\bin\Debug\net5.0\hazir-metodlar-datetime-math.exe
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-datetime-math\bin\Debug\net5.0\hazir-metodlar-datetime-math.deps.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-datetime-math\bin\Debug\net5.0\hazir-metodlar-datetime-math.runtimeconfig.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-datetime-math\bin\Debug\net5.0\hazir-metodlar-datetime-math.runtimeconfig.dev.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-datetime-math\bin\Debug\net5.0\hazir-metodlar-datetime-math.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-datetime-math\bin\Debug\net5.0\hazir-metodlar-datetime-math.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-datetime-math\obj\Debug\net5.0\hazir-metodlar-datetime-math.csproj.AssemblyReference.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-datetime-math\obj\Debug\net5.0\hazir-metodlar-datetime-math.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-datetime-math\obj\Debug\net5.0\hazir-metodlar-datetime-math.AssemblyInfoInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-datetime-math\obj\Debug\net5.0\hazir-metodlar-datetime-math.AssemblyInfo.cs
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-datetime-math\obj\Debug\net5.0\hazir-metodlar-datetime-math.csproj.CoreCompileInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-datetime-math\obj\Debug\net5.0\hazir-metodlar-datetime-math.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-datetime-math\obj\Debug\net5.0\refint\hazir-metodlar-datetime-math.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-datetime-math\obj\Debug\net5.0\hazir-metodlar-datetime-math.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-datetime-math\obj\Debug\net5.0\hazir-metodlar-datetime-math.genruntimeconfig.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\hazir-metodlar-datetime-math\obj\Debug\net5.0\ref\hazir-metodlar-datetime-math.dll
