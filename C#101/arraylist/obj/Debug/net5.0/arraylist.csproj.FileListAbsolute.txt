@@ -1,0 +1,16 @@
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arraylist\bin\Debug\net5.0\arraylist.exe
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arraylist\bin\Debug\net5.0\arraylist.deps.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arraylist\bin\Debug\net5.0\arraylist.runtimeconfig.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arraylist\bin\Debug\net5.0\arraylist.runtimeconfig.dev.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arraylist\bin\Debug\net5.0\arraylist.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arraylist\bin\Debug\net5.0\arraylist.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arraylist\obj\Debug\net5.0\arraylist.csproj.AssemblyReference.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arraylist\obj\Debug\net5.0\arraylist.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arraylist\obj\Debug\net5.0\arraylist.AssemblyInfoInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arraylist\obj\Debug\net5.0\arraylist.AssemblyInfo.cs
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arraylist\obj\Debug\net5.0\arraylist.csproj.CoreCompileInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arraylist\obj\Debug\net5.0\arraylist.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arraylist\obj\Debug\net5.0\refint\arraylist.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arraylist\obj\Debug\net5.0\arraylist.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arraylist\obj\Debug\net5.0\arraylist.genruntimeconfig.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arraylist\obj\Debug\net5.0\ref\arraylist.dll
