@@ -1,0 +1,16 @@
+D:\PatikaDev\kodluyoruzilkrepo\C#101\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.exe
+D:\PatikaDev\kodluyoruzilkrepo\C#101\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.deps.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.runtimeconfig.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.runtimeconfig.dev.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.csproj.AssemblyReference.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\kodluyoruzilkrepo\C#101\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.AssemblyInfoInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.AssemblyInfo.cs
+D:\PatikaDev\kodluyoruzilkrepo\C#101\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.csproj.CoreCompileInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\sinif-kavrami\obj\Debug\net5.0\refint\sinif-kavrami.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.genruntimeconfig.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\sinif-kavrami\obj\Debug\net5.0\ref\sinif-kavrami.dll
