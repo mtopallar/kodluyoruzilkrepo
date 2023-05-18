@@ -1,0 +1,16 @@
+D:\PatikaDev\kodluyoruzilkrepo\C#101\kurucu-metodlar\bin\Debug\net5.0\kurucu-metodlar.exe
+D:\PatikaDev\kodluyoruzilkrepo\C#101\kurucu-metodlar\bin\Debug\net5.0\kurucu-metodlar.deps.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\kurucu-metodlar\bin\Debug\net5.0\kurucu-metodlar.runtimeconfig.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\kurucu-metodlar\bin\Debug\net5.0\kurucu-metodlar.runtimeconfig.dev.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\kurucu-metodlar\bin\Debug\net5.0\kurucu-metodlar.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\kurucu-metodlar\bin\Debug\net5.0\kurucu-metodlar.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\kurucu-metodlar\obj\Debug\net5.0\kurucu-metodlar.csproj.AssemblyReference.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\kurucu-metodlar\obj\Debug\net5.0\kurucu-metodlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\kodluyoruzilkrepo\C#101\kurucu-metodlar\obj\Debug\net5.0\kurucu-metodlar.AssemblyInfoInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\kurucu-metodlar\obj\Debug\net5.0\kurucu-metodlar.AssemblyInfo.cs
+D:\PatikaDev\kodluyoruzilkrepo\C#101\kurucu-metodlar\obj\Debug\net5.0\kurucu-metodlar.csproj.CoreCompileInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\kurucu-metodlar\obj\Debug\net5.0\kurucu-metodlar.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\kurucu-metodlar\obj\Debug\net5.0\refint\kurucu-metodlar.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\kurucu-metodlar\obj\Debug\net5.0\kurucu-metodlar.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\kurucu-metodlar\obj\Debug\net5.0\kurucu-metodlar.genruntimeconfig.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\kurucu-metodlar\obj\Debug\net5.0\ref\kurucu-metodlar.dll
