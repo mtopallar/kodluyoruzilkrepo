@@ -1,0 +1,16 @@
+D:\PatikaDev\kodluyoruzilkrepo\C#101\encapsulation\bin\Debug\net5.0\encapsulation.exe
+D:\PatikaDev\kodluyoruzilkrepo\C#101\encapsulation\bin\Debug\net5.0\encapsulation.deps.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.dev.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\encapsulation\bin\Debug\net5.0\encapsulation.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\encapsulation\bin\Debug\net5.0\encapsulation.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\encapsulation\obj\Debug\net5.0\encapsulation.csproj.AssemblyReference.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\encapsulation\obj\Debug\net5.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\kodluyoruzilkrepo\C#101\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfoInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfo.cs
+D:\PatikaDev\kodluyoruzilkrepo\C#101\encapsulation\obj\Debug\net5.0\encapsulation.csproj.CoreCompileInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\encapsulation\obj\Debug\net5.0\encapsulation.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\encapsulation\obj\Debug\net5.0\refint\encapsulation.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\encapsulation\obj\Debug\net5.0\encapsulation.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\encapsulation\obj\Debug\net5.0\encapsulation.genruntimeconfig.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\encapsulation\obj\Debug\net5.0\ref\encapsulation.dll
