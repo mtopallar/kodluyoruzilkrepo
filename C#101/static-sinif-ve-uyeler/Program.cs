@@ -6,8 +6,8 @@ namespace static_sinif_ve_uyeler
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Çalışan sayısı: {0}", Calisan.CalisanSayisi);
-            Calisan calisan = new Calisan("Ayşe", "Yılmaz", "IK");
+            //Console.WriteLine("Çalışan sayısı: {0}", Calisan.CalisanSayisi); //burada static olan ctor ile erişim olduğu için çalışır.
+            Calisan calisan = new Calisan("Ayşe", "Yılmaz", "IK"); // burada ise static ctor bir daha çalışmaz normal ctor çalışır.
             Console.WriteLine("Çalışan sayısı: {0}", Calisan.CalisanSayisi);
 
             Console.WriteLine("Toplama işlemi sonucu: {0}", Islemler.Topla(100, 200));
@@ -16,9 +16,10 @@ namespace static_sinif_ve_uyeler
             /*
             Notlar:
             => static classlar içinde static olmayan herhangi bir üye kullanılamaz.
-            => Islemler islemler = new Islemler(); static class lar new lenmez. Direk class adı ile kullanılır. Static olmayan class ın static fieldlarına erişim de yine class adı. fiel ya da metod adı şeklinde olur.
+            => Islemler islemler = new Islemler(); static class lar new lenmez. Direk class adı ile kullanılır. Static olmayan class ın static fieldlarına erişim de yine class adı. field ya da metod adı şeklinde olur.
             => Static sınıflara kalıtım işlemi uygulanamaz.
             => Bir sınıfın static olmayan özellikleri oluştulan her yeni instance a özgü yani her bir instance ile verilen değer olarak set ediliyorken (örneğin Calisan calisan = new Calisan("Ayşe", "Yılmaz", "IK"); satırında calisan isimli instance ın ad, soyan ve departman özellikleri Ayşe Yılmaz IK olarak verilmiş. Yeni bir instace oluşturduğumuzda biz ne verirsek o olacak yani her instance kendine özgü değerler ile oluşacak.) static olan özellikler ise her bir instance a değil de sınıfa özgüymüş gibi hareket edecek. Yani Calisan class ından istediğimiz kadar instance oluşturalım. Her birinin adıi soyadı ve departman değerleri değişik olacakken Çalışan sayısı özelliği Calisan class ı new lendiğinde sıfırlanmayacak. Kaldığı yerden devam edecek :)
+            => (Ders sayfasından) Normal sınıflar içerisinde static metotlar ve üyeler kullanabiliriz. Peki o halde neden sınıfları static yapma ihtiyacımız olsun? Buna okunabilirliği arttırmak için diyebiliriz. Bir sınıfın tüm üyeleri static ise sınıfı da static yapmak kullanımı kolaylaştıran bir yaklaşım olur.
             */
 
             BaskaClass baskaClass = new BaskaClass(); // Benim test classım.
@@ -41,6 +42,7 @@ namespace static_sinif_ve_uyeler
         {
             //static ctorların erişim belirteçleri olmaz.
             //Static ctor sadece bir kere çalışır o da Calisan sınıfına ilk erişildiğinde. Ancak normal ctor her yeni new de çalışır.
+            // Ancak bu durum bir class ın sataic bir özelliği sadece static ctor ile atanır olarak algılanmasın. Yukarıda 9 numaralı satırı iptal etsek de Calisan class ı new lenirken de önce static metod çalışarak bu değeri set edebilir. Hatta static ctor u iptal etsek bile normal ctor içinden buradaki private static int _calisanSayisi; field ını set edebilir veya hali hazırda olduğu gibi artırabiliriz.
             _calisanSayisi = 0;
         }
 
