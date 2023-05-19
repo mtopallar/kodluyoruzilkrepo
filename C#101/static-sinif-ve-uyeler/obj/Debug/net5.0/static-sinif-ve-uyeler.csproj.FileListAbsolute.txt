@@ -1,0 +1,16 @@
+D:\PatikaDev\kodluyoruzilkrepo\C#101\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.exe
+D:\PatikaDev\kodluyoruzilkrepo\C#101\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.deps.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.runtimeconfig.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.runtimeconfig.dev.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.csproj.AssemblyReference.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\kodluyoruzilkrepo\C#101\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.AssemblyInfoInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.AssemblyInfo.cs
+D:\PatikaDev\kodluyoruzilkrepo\C#101\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.csproj.CoreCompileInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\static-sinif-ve-uyeler\obj\Debug\net5.0\refint\static-sinif-ve-uyeler.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.genruntimeconfig.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\static-sinif-ve-uyeler\obj\Debug\net5.0\ref\static-sinif-ve-uyeler.dll
