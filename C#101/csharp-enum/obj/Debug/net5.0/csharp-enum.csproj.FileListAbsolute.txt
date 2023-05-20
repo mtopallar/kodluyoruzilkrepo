@@ -1,0 +1,16 @@
+D:\PatikaDev\kodluyoruzilkrepo\C#101\csharp-enum\bin\Debug\net5.0\csharp-enum.exe
+D:\PatikaDev\kodluyoruzilkrepo\C#101\csharp-enum\bin\Debug\net5.0\csharp-enum.deps.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\csharp-enum\bin\Debug\net5.0\csharp-enum.runtimeconfig.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\csharp-enum\bin\Debug\net5.0\csharp-enum.runtimeconfig.dev.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\csharp-enum\bin\Debug\net5.0\csharp-enum.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\csharp-enum\bin\Debug\net5.0\csharp-enum.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\csharp-enum\obj\Debug\net5.0\csharp-enum.csproj.AssemblyReference.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\csharp-enum\obj\Debug\net5.0\csharp-enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\kodluyoruzilkrepo\C#101\csharp-enum\obj\Debug\net5.0\csharp-enum.AssemblyInfoInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\csharp-enum\obj\Debug\net5.0\csharp-enum.AssemblyInfo.cs
+D:\PatikaDev\kodluyoruzilkrepo\C#101\csharp-enum\obj\Debug\net5.0\csharp-enum.csproj.CoreCompileInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\csharp-enum\obj\Debug\net5.0\csharp-enum.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\csharp-enum\obj\Debug\net5.0\refint\csharp-enum.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\csharp-enum\obj\Debug\net5.0\csharp-enum.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\csharp-enum\obj\Debug\net5.0\csharp-enum.genruntimeconfig.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\csharp-enum\obj\Debug\net5.0\ref\csharp-enum.dll
