@@ -1,0 +1,16 @@
+D:\PatikaDev\kodluyoruzilkrepo\C#101\struct_kavrami\bin\Debug\net5.0\struct_kavrami.exe
+D:\PatikaDev\kodluyoruzilkrepo\C#101\struct_kavrami\bin\Debug\net5.0\struct_kavrami.deps.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\struct_kavrami\bin\Debug\net5.0\struct_kavrami.runtimeconfig.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\struct_kavrami\bin\Debug\net5.0\struct_kavrami.runtimeconfig.dev.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\struct_kavrami\bin\Debug\net5.0\struct_kavrami.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\struct_kavrami\bin\Debug\net5.0\struct_kavrami.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\struct_kavrami\obj\Debug\net5.0\struct_kavrami.csproj.AssemblyReference.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\struct_kavrami\obj\Debug\net5.0\struct_kavrami.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\kodluyoruzilkrepo\C#101\struct_kavrami\obj\Debug\net5.0\struct_kavrami.AssemblyInfoInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\struct_kavrami\obj\Debug\net5.0\struct_kavrami.AssemblyInfo.cs
+D:\PatikaDev\kodluyoruzilkrepo\C#101\struct_kavrami\obj\Debug\net5.0\struct_kavrami.csproj.CoreCompileInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\struct_kavrami\obj\Debug\net5.0\struct_kavrami.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\struct_kavrami\obj\Debug\net5.0\refint\struct_kavrami.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\struct_kavrami\obj\Debug\net5.0\struct_kavrami.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\struct_kavrami\obj\Debug\net5.0\struct_kavrami.genruntimeconfig.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\struct_kavrami\obj\Debug\net5.0\ref\struct_kavrami.dll
