@@ -1,0 +1,16 @@
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler\bin\Debug\net5.0\arayuzler.exe
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler\bin\Debug\net5.0\arayuzler.deps.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler\bin\Debug\net5.0\arayuzler.runtimeconfig.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler\bin\Debug\net5.0\arayuzler.runtimeconfig.dev.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler\bin\Debug\net5.0\arayuzler.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler\bin\Debug\net5.0\arayuzler.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler\obj\Debug\net5.0\arayuzler.csproj.AssemblyReference.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler\obj\Debug\net5.0\arayuzler.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler\obj\Debug\net5.0\arayuzler.AssemblyInfoInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler\obj\Debug\net5.0\arayuzler.AssemblyInfo.cs
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler\obj\Debug\net5.0\arayuzler.csproj.CoreCompileInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler\obj\Debug\net5.0\arayuzler.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler\obj\Debug\net5.0\refint\arayuzler.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler\obj\Debug\net5.0\arayuzler.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler\obj\Debug\net5.0\arayuzler.genruntimeconfig.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler\obj\Debug\net5.0\ref\arayuzler.dll
