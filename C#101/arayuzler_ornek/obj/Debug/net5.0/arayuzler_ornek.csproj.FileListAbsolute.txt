@@ -1,0 +1,16 @@
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler_ornek\bin\Debug\net5.0\arayuzler_ornek.exe
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler_ornek\bin\Debug\net5.0\arayuzler_ornek.deps.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler_ornek\bin\Debug\net5.0\arayuzler_ornek.runtimeconfig.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler_ornek\bin\Debug\net5.0\arayuzler_ornek.runtimeconfig.dev.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler_ornek\bin\Debug\net5.0\arayuzler_ornek.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler_ornek\bin\Debug\net5.0\arayuzler_ornek.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler_ornek\obj\Debug\net5.0\arayuzler_ornek.csproj.AssemblyReference.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler_ornek\obj\Debug\net5.0\arayuzler_ornek.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler_ornek\obj\Debug\net5.0\arayuzler_ornek.AssemblyInfoInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler_ornek\obj\Debug\net5.0\arayuzler_ornek.AssemblyInfo.cs
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler_ornek\obj\Debug\net5.0\arayuzler_ornek.csproj.CoreCompileInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler_ornek\obj\Debug\net5.0\arayuzler_ornek.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler_ornek\obj\Debug\net5.0\refint\arayuzler_ornek.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler_ornek\obj\Debug\net5.0\arayuzler_ornek.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler_ornek\obj\Debug\net5.0\arayuzler_ornek.genruntimeconfig.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\arayuzler_ornek\obj\Debug\net5.0\ref\arayuzler_ornek.dll
