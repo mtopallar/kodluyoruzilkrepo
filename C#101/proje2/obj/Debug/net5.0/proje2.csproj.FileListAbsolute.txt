@@ -1,0 +1,16 @@
+D:\PatikaDev\kodluyoruzilkrepo\C#101\proje2\bin\Debug\net5.0\proje2.exe
+D:\PatikaDev\kodluyoruzilkrepo\C#101\proje2\bin\Debug\net5.0\proje2.deps.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\proje2\bin\Debug\net5.0\proje2.runtimeconfig.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\proje2\bin\Debug\net5.0\proje2.runtimeconfig.dev.json
+D:\PatikaDev\kodluyoruzilkrepo\C#101\proje2\bin\Debug\net5.0\proje2.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\proje2\bin\Debug\net5.0\proje2.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\proje2\obj\Debug\net5.0\proje2.csproj.AssemblyReference.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\proje2\obj\Debug\net5.0\proje2.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\kodluyoruzilkrepo\C#101\proje2\obj\Debug\net5.0\proje2.AssemblyInfoInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\proje2\obj\Debug\net5.0\proje2.AssemblyInfo.cs
+D:\PatikaDev\kodluyoruzilkrepo\C#101\proje2\obj\Debug\net5.0\proje2.csproj.CoreCompileInputs.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\proje2\obj\Debug\net5.0\proje2.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\proje2\obj\Debug\net5.0\refint\proje2.dll
+D:\PatikaDev\kodluyoruzilkrepo\C#101\proje2\obj\Debug\net5.0\proje2.pdb
+D:\PatikaDev\kodluyoruzilkrepo\C#101\proje2\obj\Debug\net5.0\proje2.genruntimeconfig.cache
+D:\PatikaDev\kodluyoruzilkrepo\C#101\proje2\obj\Debug\net5.0\ref\proje2.dll
